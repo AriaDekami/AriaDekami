@@ -18,7 +18,6 @@
 - [Main](https://github.com/AriaDekami/Main)
 - [Profile Repo](https://github.com/AriaDekami/AriaDekami)
 
-- 📫 You can reach me **@ariadekamii on instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
