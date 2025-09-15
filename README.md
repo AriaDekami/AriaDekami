@@ -3,11 +3,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariadekami" alt="ariadekami" /></a> </p>
 
-- 🔭 I’m currently working on **a start-up**
+## 🚀 About Me
+- 💻 Frontend & Backend Developer
+- 🎨 UI Designer 
+- 🌐 Love working with: **HTML**, **CSS**, **JavaScript**, **React**, **Python**, **Virtual Machines**
 
-- 🌱 I’m currently learning **javascript**
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks:** React
+- **Design:** Figma
+- **Other:** Virtual Machine setup & management
 
-- 👯 I’m open collaborate on **cool projects**
+## 📌 Featured Projects
+- [Main](https://github.com/AriaDekami/Main)
+- [Profile Repo](https://github.com/AriaDekami/AriaDekami)
 
 - 📫 You can reach me **@ariadekamii on instagram**
 
