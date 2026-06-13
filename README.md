@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariadekami" alt="ariadekami" /></a> </p>
 
 ## 🚀 About Me
-- 💻 Frontend & Backend Developer
+- 💻 Frontend Developer
 - 🎨 UI Designer 
-- 🌐 Love working with: **HTML**, **CSS**, **JavaScript**, **React**, **Python**, **Virtual Machines**
+- 🌐 Love working with: **HTML**, **CSS**, **JavaScript**, **React**, **Virtual Machines**
 
 ## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React, Tailwind
 - **Design:** Figma
-- **Other:** Virtual Machine setup & management
+- **Other:** Virtual Machine setup, TypeScript, Product Managements
 
 ## 📌 Featured Projects
 - [Main](https://github.com/AriaDekami/Main)
