@@ -5,18 +5,8 @@
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A192F,100:102A43&text=Aria%20Dekami&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:EAF2FF,100:C7DAFF&text=Aria%20Dekami&fontColor=102A43&fontSize=56&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&animation=fadeIn"
-  />
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A192F,100:102A43&text=Aria%20Dekami&fontColor=FFFFFF&fontSize=56&fontAlignY=38"
-  />
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Aria Dekami" src="art/header-light.png">
 </picture>
 
 # Well hello there, I'm **[Aria Dekami]** 👋
