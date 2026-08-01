@@ -31,11 +31,11 @@
 <br/>
 
 <!-- ================= STAT BADGES (dark blue) ================= -->
-<img alt="Followers" src="https://img.shields.io/github/followers/AriaDekami?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F&color=102A43" />
+<img alt="Followers" src="https://img.shields.io/github/followers/AriaDekami?style=for-the-badge&logo=github&logoColor=white&labelColor=03002e&color=010048" />
 &nbsp;
-<img alt="Stars" src="https://img.shields.io/github/stars/AriaDekami?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F&color=102A43" />
+<img alt="Stars" src="https://img.shields.io/github/stars/AriaDekami?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=03002e&color=010048" />
 &nbsp;
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AriaDekami&style=for-the-badge&label=PROFILE+VIEWS&color=102A43" />
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AriaDekami&style=for-the-badge&label=PROFILE+VIEWS&color=010048" />
 
 </div>
 
@@ -113,7 +113,7 @@ modern and scalable web applications.
 <img
   height="180"
   alt="GitHub Streak"
-  src="https://github-readme-streak-stats.herokuapp.com?user=AriaDekami&theme=github-dark-blue&hide_border=true&background=0A192F&stroke=1F6FEB&ring=1F6FEB&fire=4F8CC9&currStreakLabel=4F8CC9"
+  src="https://github-readme-streak-stats.herokuapp.com?user=AriaDekami&theme=github-dark-blue&hide_border=true&background=03002e&stroke=1F6FEB&ring=1F6FEB&fire=4F8CC9&currStreakLabel=4F8CC9"
 />
 
 <br/><br/>
@@ -121,7 +121,7 @@ modern and scalable web applications.
 <img
   width="100%"
   alt="Activity Graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AriaDekami&theme=github-dark&bg_color=0A192F&color=4F8CC9&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AriaDekami&theme=github-dark&bg_color=03002e&color=4F8CC9&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true"
 />
 
 </div>
@@ -183,19 +183,19 @@ modern and scalable web applications.
 # 🌐 Connect With Me
 
 <a href="[LINKEDIN_URL]" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-102A43?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-010048?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="[INSTAGRAM_URL]" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-102A43?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-010048?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="[TIKTOK_URL]" target="_blank">
-  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-102A43?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-010048?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 <a href="[YOUTUBE_URL]" target="_blank">
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-102A43?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-010048?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="mailto:[YOUR_EMAIL]">
-  <img alt="Email" src="https://img.shields.io/badge/Email-102A43?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-010048?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -215,7 +215,7 @@ _"Code. Learn. Build. Repeat."_
 <!-- ============================================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0A192F,100:102A43" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:EAF2FF,100:C7DAFF" />
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0A192F,100:102A43" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:03002e,100:010048" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:010048,100:02006c" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:03002e,100:010048" />
 </picture>
