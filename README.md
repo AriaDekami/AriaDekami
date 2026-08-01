@@ -1,30 +1,171 @@
-<h1 align="center">Hi, I'm Aria</h1>
-<h3 align="center">A passionate developer</h3>
+<!-- ========================================= -->
+<!--          GITHUB PROFILE README            -->
+<!-- ========================================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariadekami" alt="ariadekami" /></a> </p>
+<div align="center">
 
-## 🚀 About Me
-- 💻 Frontend Developer
-- 🎨 UI Designer 
-- 🌐 Love working with: **HTML**, **CSS**, **JavaScript**, **React**, **Virtual Machines**
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A192F,100:102A43&text=Aria%20Dekami&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&animation=fadeIn"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:EAF2FF,100:C7DAFF&text=Aria%20Dekami&fontColor=102A43&fontSize=56&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&animation=fadeIn"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A192F,100:102A43&text=Aria%20Dekami&fontColor=FFFFFF&fontSize=56&fontAlignY=38"
+  />
+</picture>
 
-## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React, Tailwind
-- **Design:** Figma
-- **Other:** Virtual Machine setup, TypeScript, Product Managements
+# Well hello there, I'm **[Aria Dekami]** 👋
 
-## 📌 Featured Projects
-- [Main](https://github.com/AriaDekami/Main)
-- [Profile Repo](https://github.com/AriaDekami/AriaDekami)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
 
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ariadekamii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariadekamii" height="30" width="40" /></a>
-</p>
+![](https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&color=102A43)
+![](https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&logo=github&color=102A43)
+![](https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=102A43)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariadekami&show_icons=true&locale=en&layout=compact" alt="ariadekami" /></p>
+---
+
+# 💫 About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### 👨‍💻 Hi!
+
+I'm **[Aria Dekami]**, a passionate developer who enjoys building clean,
+modern and scalable web applications.
+
+### 🚀 Currently
+
+- 🌱 Learning **Computer Science & Artificial Intelligence**
+- ⚛️ Building projects with **React**, **Next.js**, and **TypeScript**
+- 🎨 Passionate about UI/UX and premium interfaces
+- 💡 Always exploring better software architecture
+- 📚 Constantly improving every single day
+
+### 🎯 Goals
+
+- Build impactful products
+- Master frontend engineering
+- Learn AI & Machine Learning
+- Contribute to Open Source
+
+</td>
+
+<td width="35%" align="center">
+
+<img
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+width="280"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode,figma,postgres,mongodb,python&perline=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_USERNAME]&theme=github-dark-blue&hide_border=true"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=github-dark&bg_color=0A192F&color=4F8CC9&line=4F8CC9&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<!--
+GitHub Action:
+https://github.com/Platane/snk
+
+Example output:
+
+https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg
+-->
+
+<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+<a href="[LINKEDIN_URL]">
+<img src="https://img.shields.io/badge/LinkedIn-102A43?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[INSTAGRAM_URL]">
+<img src="https://img.shields.io/badge/Instagram-102A43?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="[TIKTOK_URL]">
+<img src="https://img.shields.io/badge/TikTok-102A43?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="[YOUTUBE_URL]">
+<img src="https://img.shields.io/badge/YouTube-102A43?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Email-102A43?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0A192F,100:102A43"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:EAF2FF,100:C7DAFF"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0A192F,100:102A43"
+  />
+</picture>
