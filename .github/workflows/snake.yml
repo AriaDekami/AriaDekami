@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: AriaDekami
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%231F6FEB&color_dots=%2303002e,%23010048,%23010057,%2302006c,%23090088
-            dist/github-contribution-grid-snake.svg?color_snake=%231F6FEB&color_dots=%2303002e,%23010048,%23010057,%2302006c,%23090088
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%231F6FEB&color_dots=%230d1b3d,%231e3a8a,%232f5fd0,%234b83f0,%237db0ff
+            dist/github-contribution-grid-snake.svg?color_snake=%231F6FEB&color_dots=%230d1b3d,%231e3a8a,%232f5fd0,%234b83f0,%237db0ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
