@@ -215,7 +215,7 @@ _"Code. Learn. Build. Repeat."_
 <!-- ============================================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:03002e,100:010048" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:010048,100:02006c" />
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:03002e,100:010048" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:010048,100:1F6FEB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:010048,100:1F6FEB" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:010048,100:1F6FEB" />
 </picture>
