@@ -23,7 +23,7 @@
 <!-- ================= ANIMATED TYPING ================= -->
 <a href="https://github.com/AriaDekami">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=820&height=45&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+Something+New"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=820&height=45&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+Something+New"
     alt="Typing SVG"
   />
 </a>
